@@ -1,0 +1,17 @@
+[{
+    "sector": "desarrollo",
+    "lider": "gervasio",
+    "empleados": 8
+}, {
+    "sector": "testing",
+    "lider": "german",
+    "empleados": 3
+}, {
+    "sector": "ux",
+    "lider": "florinda",
+    "empleados": 4
+}, {
+    "sector": "ventas",
+    "lider": "analia",
+    "empleados": 3
+}]
